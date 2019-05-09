@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+                "appID": "TF5QTPSFFC.com.sol.wallet",
+                "paths": ["/appletest/qr/*"]
+            },
+            {
+                "appID": "44UA5NSPF8.com.cryptoalpha.adhoc",
+                "paths": ["/appletest/qr/*"]
+            },
+            {
+                "appID": "44UA5NSPF8.com.cryptoalpha.developer",
+                "paths": ["/appletest/qr/*"]
+        }]
+    }
+}
