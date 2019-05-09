@@ -7,11 +7,11 @@
             },
             {
                 "appID": "44UA5NSPF8.com.cryptoalpha.adhoc",
-                "paths": ["/appletest/qr/*"]
+                "paths": ["*"]
             },
             {
                 "appID": "44UA5NSPF8.com.cryptoalpha.developer",
-                "paths": ["/appletest/qr/*"]
+                "paths": ["*"]
         }]
     }
 }
